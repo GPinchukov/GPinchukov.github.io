@@ -47,7 +47,14 @@ align-self:
 header{
  width: 100%;
  background: black;
- height: 100px;
+ height: 300px;
+ font-size: 60px;
+ color: white;
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ align-items: center;
+
 }
 #footer {
     left: 0; bottom: 0;
@@ -63,3 +70,7 @@ header{
     justify-content: center;
     align-items: center;
   }
+#hh {
+  margin:5px;
+  padding:100px;
+}
