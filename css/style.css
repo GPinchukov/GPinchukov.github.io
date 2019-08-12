@@ -1,11 +1,13 @@
 a { color: white; }
 
 body {
- color: black;
  font-family:FagotCondOutlineC;
  text-align: center;
  image-orientation: center;
  font-size: 30px;
+}
+.io{
+
 }
 .a1 {
 align-self:
